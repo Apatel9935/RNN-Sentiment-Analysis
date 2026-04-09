@@ -16,6 +16,8 @@ This project uses the IMDB Movie Reviews Dataset containing 50,000 labeled revie
 
 - Source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  
 - Description: The dataset consists of 25,000 positive and 25,000 negative movie reviews used for binary sentiment classification.
+- ⚠️ Note: Dataset is not included in this repository due to size limitations.  
+Please download it from the above link and place it in the project directory.
 
 ---
 
