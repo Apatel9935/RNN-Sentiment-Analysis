@@ -10,6 +10,16 @@ Recurrent Neural Networks are effective for sequence data as they capture contex
 
 ---
 
+## Dataset
+
+This project uses the IMDB Movie Reviews Dataset containing 50,000 labeled reviews for sentiment classification.
+
+- Source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  
+- Description: The dataset consists of 25,000 positive and 25,000 negative movie reviews used for binary sentiment classification.
+
+---
+
+
 ## 🎯 Objective
 
 * To preprocess raw text data
